@@ -6,7 +6,6 @@ Resource   cloudCredentials.robot
 
 *** Variables ***
 ${PLATFORM_NAME}	  iOS
-${TEST_NAME}		    Robot Demo Test - Web
 ${IOS_BUNDLE_ID}	  com.experitest.ExperiBank
 ${APPIUM_VERSION}   <APPIUM_VERSION>
 ${TEST_NAME}		    Robot Native Test - iOS
